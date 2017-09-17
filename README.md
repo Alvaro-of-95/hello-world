@@ -1,3 +1,3 @@
 # hello-world
-Repositorio de prueba para aprender
+Repositorio para probar y para aprender
 Probando repositorios.
